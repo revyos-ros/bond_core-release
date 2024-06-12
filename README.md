@@ -1,3 +1,34 @@
+## bond_core (jazzy) - 4.1.0-1
+
+The packages in the `bond_core` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy bond_core --override-release-repository-push-url git@github.com:revyos-ros/bond_core-release.git` on `Wed, 12 Jun 2024 03:51:48 -0000`
+
+These packages were released:
+- `bond`
+- `bond_core`
+- `bondcpp`
+- `bondpy`
+- `smclib`
+
+These packages were explicitly ignored:
+- `test_bond`
+
+Version of package(s) in repository `bond_core`:
+
+- upstream repository: https://github.com/ros/bond_core.git
+- release repository: https://github.com/revyos-ros/bond_core-release.git
+- rosdistro version: `4.0.0-5`
+- old version: `4.0.0-5`
+- new version: `4.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## bond_core (rolling) - 4.1.0-1
 
 The packages in the `bond_core` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling bond_core` on `Mon, 03 Jun 2024 20:37:07 -0000`
